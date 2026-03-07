@@ -59,6 +59,28 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+function article_3() {
+	return {
+		date: "7 Mar 2026",
+		title: "Spring Boot: Bean and its lifecycle",
+		link: "https://medium.com/p/c80eea3f8c3a?postPublishedType=initial",
+		description:
+			"A Bean is an object that is created, managed, and controlled by the Spring IoC container. IoC Container — contains all the beans which gets created and also manages them.",
+		style: ``,
+		keywords: [
+			"Bean Lifecycle",
+			"System Design",
+			"Vasu Bansal",
+		],
+		body: (
+			<React.Fragment>
+				<h1>Content of article 2</h1>
+			</React.Fragment>
+		),
+	};
+}
+
+
+const myArticles = [article_1, article_2, article_3];
 
 export default myArticles;

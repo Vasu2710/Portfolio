@@ -45,7 +45,7 @@ const About = () => {
 									{INFO.about.title}
 								</div>
 
-								<div className="subtitle about-subtitle">
+								<div className="subtitle about-subtitle" style={{ whiteSpace: "pre-line" }}>
 									{INFO.about.description}
 								</div>
 							</div>
@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="about.jpeg"
 											alt="about"
 											className="about-image"
 										/>

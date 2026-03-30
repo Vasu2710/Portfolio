@@ -43,49 +43,41 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Distributed Notification System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Built a production-ready e-commerce system with core microservices (payment, order, notification) in Java, using Docker Compose for orchestration and Apache Kafka for asynchronous communication, demonstrating scalable service-oriented architecture.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vasu2710/ecom",
 		},
 
 		{
-			title: "Project 2",
+			title: "Journal Master",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed a comprehensive REST API role-based authentication system for a multi-user journal application",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Vasu2710/spring-journal-CRUD",
 		},
 
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
 	],
 };
 

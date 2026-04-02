@@ -43,6 +43,15 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Repomind - AI Codebase Q&A Agent",
+			description:
+				"Built an AI-powered code repository Q&A agent using LangChain, FAISS vector search, and HuggingFace's Qwen-7B model, enabling natural-language queries over any codebase with contextual retrieval",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			linkText: "View Project",
+			link: "https://github.com/Vasu2710/repomind",
+		},
+		
+		{
 			title: "Distributed Notification System",
 			description:
 				"Built a production-ready e-commerce system with core microservices (payment, order, notification) in Java, using Docker Compose for orchestration and Apache Kafka for asynchronous communication, demonstrating scalable service-oriented architecture.",
@@ -60,14 +69,7 @@ const INFO = {
 			link: "https://github.com/Vasu2710/spring-journal-CRUD",
 		},
 
-		{
-			title: "",
-			description:
-				"Built an AI-powered code repository Q&A agent using LangChain, FAISS vector search, and HuggingFace's Qwen-7B model, enabling natural-language queries over any codebase with contextual retrieval",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com/Vasu2710/repomind",
-		},
+		
 
 		// {
 		// 	title: "",
